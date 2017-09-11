@@ -15,7 +15,7 @@ English translations are provided in the following posts.
 5. 未違反以上規定但行為明顯影響其他群組成員者（由管理員心證）管理員得封鎖為期一日
 
 ## English ##
-Hello, and welcome to join this community!  Before interacting with others please achknowledge the following must-knows, thanks for you co-operation!
+Hello, and welcome to join this community!  Before interacting with others please acknowledge the following must-knows, thanks for you co-operation!
 
 1. Not violating Taiwan local regulations
 2. Topics are required to be directly or indirectly related with Ubuntu(including but not limited to, Linux-based OS distributions and F.O.S.S.)
